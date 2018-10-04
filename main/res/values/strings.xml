@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TooMuchStuff</string>
+    <string-array name="sources">
+        <item>Brand Store</item>
+        <item>Chain Store</item>
+        <item>Charity Shop</item>
+        <item>2nd Hand</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="clothingTypes">
+        <item>T-shirt</item>
+        <item>Shirt</item>
+        <item>Jumper</item>
+        <item>Coat</item>
+        <item>Trousers</item>
+        <item>Shorts</item>
+        <item>Dress</item>
+        <item>Skirt</item>
+        <item>Shoes</item>
+        <item>Socks</item>
+        <item>Misc</item>
+    </string-array>
+    <string-array name="filterList">
+        <item>All</item>
+        <item>T-shirt</item>
+        <item>Shirt</item>
+        <item>Jumper</item>
+        <item>Coat</item>
+        <item>Trousers</item>
+        <item>Shorts</item>
+        <item>Dress</item>
+        <item>Skirt</item>
+        <item>Shoes</item>
+        <item>Socks</item>
+        <item>Misc</item>
+    </string-array>
+    <string name="title_activity_clothing_display">clothingDisplay</string>
+</resources>
